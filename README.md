@@ -1,2 +1,3 @@
 # sinatra-docker
-Working through a tutorial on dockerising a Sinatra app
+
+Working through this tutorial on dockerising a Sinatra app: [codewithjason.com/dockerize-sinatra-application/](https://www.codewithjason.com/dockerize-sinatra-application/)
